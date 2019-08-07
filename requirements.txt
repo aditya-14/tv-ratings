@@ -46,7 +46,7 @@ dash-html-components==0.16.0
 dash-renderer==0.24.0
 dash-table==3.7.0
 dask==0.17.5
-datashape==0.5.4
+datashape==0.5.2
 decorator==4.3.0
 descartes==1.1.0
 distributed==1.21.8
